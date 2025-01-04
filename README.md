@@ -11,17 +11,12 @@ This guide demonstrates implementing an RNN using **LSTM (Long Short-Term Memory
 
 ---
 
-## Table of Contents
+## Model Architecture
+This RNN consists of:
 
-1. [Project Overview](#project-overview)
-2. [Requirements](#requirements)
-3. [Dataset Preparation](#dataset-preparation)
-4. [Model Architecture](#model-architecture)
-5. [Implementation Steps](#implementation-steps)
-6. [Precautions](#precautions)
-7. [Results and Visualization](#results-and-visualization)
-8. [Usage Instructions](#usage-instructions)
-9. [Future Enhancements](#future-enhancements)
+Embedding Layer (for text data): Converts words into dense vector representations.
+LSTM Layer: Captures long-term dependencies in sequences.
+Dense Output Layer: Outputs predictions.
 
 ---
 
