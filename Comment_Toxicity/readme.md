@@ -2,6 +2,7 @@
 
 This project builds a machine learning pipeline to classify comments for various types of toxicity using a Bidirectional LSTM model. It includes data preprocessing, training, evaluation, and a user-friendly Gradio interface for prediction.
 
+![image alt](https://github.com/Lucifer1406/Deep_Learning_RNN_Based_Projects/blob/2bcd241a380364418a7fd604aa62500e26ed29ed/Comment_Toxicity/Screenshot%202025-01-03%20202705.png)
 ---
 
 ## Dataset
@@ -21,8 +22,6 @@ Kaggle : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-sm
 - Model evaluation with metrics such as Precision, Recall, and Accuracy.
 
 ---
-
-![image alt](https://github.com/Lucifer1406/Deep_Learning_RNN_Based_Projects/blob/2bcd241a380364418a7fd604aa62500e26ed29ed/Comment_Toxicity/Screenshot%202025-01-03%20202705.png)
 
 
 ## Requirements
