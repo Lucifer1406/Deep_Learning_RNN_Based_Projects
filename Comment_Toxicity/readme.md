@@ -22,6 +22,8 @@ Kaggle : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-sm
 
 ---
 
+![image alt]https://github.com/Lucifer1406/Deep_Learning_RNN_Based_Projects/blob/2bcd241a380364418a7fd604aa62500e26ed29ed/Comment_Toxicity/Screenshot%202025-01-03%20202705.png
+
 ## Requirements
 
 - Python 3.7+
